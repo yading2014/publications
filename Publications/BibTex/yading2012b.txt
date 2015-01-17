@@ -1,0 +1,5 @@
+\bibitem[Song et~al., 2012b]{Song2012}
+Song, Y., Dixon, S., and Pearce, M.~T. (2012b).
+\newblock {Evaluation of musical features for emotion classification}.
+\newblock In {\em 13th International Society for Music Information Retrieval
+  Conference (ISMIR)}, pages 523--528, Porto, Portugal.
