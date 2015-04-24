@@ -1,5 +1,4 @@
 \bibitem[Song et~al., 2012a]{Song2012a}
 Song, Y., Dixon, S., and Pearce, M.~T. (2012a).
 \newblock {A survey of music recommendation systems and future perspectives}.
-\newblock In {\em 9th International Symposium on Computer Music Modeling and
-  Retrieval (CMMR)}, pages 395--410, London, UK.
+\newblock In {\em Proceedings of the 9th International Symposium on Computer Music Modeling and Retrieval (CMMR)}, pages 395--410, London, United Kingdom.

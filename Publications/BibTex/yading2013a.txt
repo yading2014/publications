@@ -1,5 +1,4 @@
 \bibitem[Song et~al., 2013a]{Song2013a}
 Song, Y., Dixon, S., Pearce, M.~T., and Fazekas, G. (2013a).
 \newblock {Using tags to select stimuli in the study of music and emotion}.
-\newblock In {\em 3rd International Conference on Music \& Emotion (ICME)},
-  Jyv\"{a}skyl\"{a}, Finland.
+\newblock In {\em Proceedings of the 3rd International Conference on Music \& Emotion (ICME)}, Jyv\"{a}skyl\"{a}, Finland.

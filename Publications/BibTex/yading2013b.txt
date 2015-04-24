@@ -2,5 +2,4 @@
 Song, Y., Dixon, S., Pearce, M.~T., and Halpern, A.~R. (2013b).
 \newblock {Do online social tags predict perceived or induced emotional
   responses to music?}
-\newblock In {\em 15th International Society for Music Information Retrieval
-  Conference (ISMIR)}, Curitiba, Brazil.
+\newblock In {\em Proceedings of the 14th International Society for Music Information Retrieval Conference (ISMIR)}, pages 89–-94, Curitiba, Brazil.
